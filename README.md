@@ -4,7 +4,7 @@ HEYYY 😊
 
 -🔥 Looking for my first job experience !!!
 
--✔️ Self Learning and REALLY wanting to learn...
+-✔️ Self Learning and studying Computer Science 
 
 -❤️ Focusing on Web Development !!! 
 
