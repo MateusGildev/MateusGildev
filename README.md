@@ -1,12 +1,13 @@
 HEYYY 😊
 
--👛 I'm currently learning HMTL, CSS and JavaScript...
+-👛 I'm currently learning JavaScript...
 
 -🔥 Looking for my first job experience !!!
 
--✔️ Self Learning and studying Computer Science 
+-✔️ Self Learning and studying Computer Science. 
 
 -❤️ Focusing on Web Development !!! 
+
 
 <div align="center">
   <a href="https://github.com/MateusGil">
