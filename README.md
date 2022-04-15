@@ -1,12 +1,12 @@
 HEYYY 😊
 
--👛 I'm currently learning JavaScript...
+-👛 I'm currently learning Java...
 
 -🔥 Looking for my first job experience !!!
 
 -✔️ Self Learning and studying Computer Science. 
 
--❤️ Focusing on Web Development !!! 
+-❤️ Focusing on Mobile Development !!! 
 
 
 <div align="center">
@@ -20,6 +20,7 @@ HEYYY 😊
   <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   <br>
   <div>
