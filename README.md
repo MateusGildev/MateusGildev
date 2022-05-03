@@ -11,8 +11,9 @@ HEYYY 😊
 
 <div align="center">
   <a href="https://github.com/MateusGil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGil&layout=compact&langs_count=7&theme=dark"/>
+  ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGildev&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGildev&layout=compact)](https://github.com/MateusGildev/github-readme-stats)
+
 </div>
   
   <div style="display: inline_block";><br><br>
