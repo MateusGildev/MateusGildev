@@ -12,7 +12,8 @@ HEYYY 😊
 <div align="center">
   <a href="https://github.com/MateusGil">
   ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGildev&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGildev&layout=compact)](https://github.com/MateusGildev/github-readme-stats)
+    
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGildev&layout=compact)](https://github.com/MateusGildev/github-readme-stats)
 
 </div>
   
