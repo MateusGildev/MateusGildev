@@ -10,10 +10,12 @@ HEYYY 😊
 
 
 <div align="center">
-  <a href="https://github.com/MateusGil">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MateusGildev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusGildev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGildev)](https://github.com/MateusGildev/github-readme-stats)
 
-
+</div>
 
 </div>
   
